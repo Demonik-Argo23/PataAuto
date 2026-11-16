@@ -16,6 +16,11 @@ Play a couple of commands, press **F9** and the bot keeps the rhythm for you, sy
 
 </div>
 
+> [!WARNING]
+> **Úsalo bajo tu propio riesgo.** En salas multijugador, usar bots o autoclickers puede ser motivo de ban. Pensado para farmear en solitario.
+>
+> **Use at your own risk.** Using bots or autoclickers in multiplayer rooms may get you banned. Meant for solo farming.
+
 ---
 
 ## Español
@@ -129,7 +134,5 @@ python pataauto.py                 # run directly
 ```
 
 ---
-
-> ⚠️ **Úsalo bajo tu propio riesgo.** En salas multijugador, usar bots o autoclickers puede ser motivo de ban. Pensado para farmear en solitario. · **Use at your own risk.** Using bots or autoclickers in multiplayer rooms may get you banned. Meant for solo farming.
 
 <sub>Proyecto de fans, sin relación con Sony Interactive Entertainment. Patapon es marca de sus respectivos dueños. · Fan project, not affiliated with Sony Interactive Entertainment. Patapon is a trademark of its respective owners.</sub>
