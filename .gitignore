@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Config y logs locales
+pataauto*.json
+*.log
+
+# Build (PyInstaller / Inno Setup)
+installer/build/
+installer/out/
+installer/*.spec
+
+# Editor / notas locales
+.vscode/
+CLAUDE.md
